@@ -35,7 +35,10 @@ int main(int argc, char **argv)
  button.setFont(font); 
 
 // Set the size of the button's icon
- button.setIconSize(QSize(50, 50));  button.show(); // Display the button on the screen
+ button.setIconSize(QSize(50, 50));
+
+// Display the button on the screen
+button.show(); 
 
 // Start the event loop of the QApplication 
 // and return the exit code of the application when it's closed
