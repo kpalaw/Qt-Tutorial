@@ -2,8 +2,9 @@
 
 
 ----->
-#EX1. 
+#EX1. This example demonstrates the creation of a window featuring a single button. Additionally, it illustrates how to manipulate properties of the button object.
 
+![image](https://github.com/kpalaw/Qt-Tutorial/assets/16006116/4337f5b4-276b-4513-832d-84b3aac06edd)
 
 ```
 // Managing the GUI application
@@ -44,3 +45,4 @@ button.show();
 // and return the exit code of the application when it's closed
  return app.exec(); 
 }
+
