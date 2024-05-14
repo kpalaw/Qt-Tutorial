@@ -1,8 +1,15 @@
+<!-----
+
+
+----->
+
+
+
+```
 // Managing the GUI application
 #include <QApplication>
 // Creating clickable buttons 
 #include <QPushButton> 
-
 
 int main(int argc, char **argv)
 {
